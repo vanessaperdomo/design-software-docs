@@ -1,6 +1,6 @@
 # Overview
 
-> Estado: 🟡 En progreso | Última actualización: 2026-06-16
+> Estado: 🟡 En progreso | Última actualización: 2026-06-17
 > Autor: Vanessa Perdomo | Equipo: Por definir
 
 ## Contexto institucional

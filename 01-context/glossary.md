@@ -1,7 +1,8 @@
 # Glosario
 
-> Estado: 🟡 En progreso | Última actualización: 2026-06-16
+> Estado: 🟡 En progreso | Última actualización: 2026-06-17
 > Autor: vanessaperdomo | Equipo: Por definir
+
 
 | Término | Definición | Contexto |
 |---------|------------|----------|
